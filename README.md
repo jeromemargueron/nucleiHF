@@ -20,12 +20,17 @@ In the following we details how to run the python3 scripts.
 $ python3 nucleiHF.py
 
   This code reads the dictionaries:
-  Data   : dict-data.txt
-  Param  : dict-par.txt
-  Results: dict-res.txt
+  - Data: dict-data.txt
+  - Data (ISGMR): dict-data-gmr.txt
+  - Param: dict-par.txt
+  - Results: dict-res.txt
+  - Results (ISGMR): dict-res-gmr2.txt
+  
   The models are ['SKY', 'RNL', 'RDD']
+  
   The nuclei are ['16O', '34Si', '40Ca', '48Ca', '52Ca', '54Ca', '48Ni', '56Ni',
   '78Ni', '90Zr', '100Sn', '132Sn', '208Pb']
+  
   The code interacts with the user to show results.
 
 More details:
