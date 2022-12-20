@@ -40,3 +40,5 @@ Sets from the following models: ['SKY', 'RNL', 'RDD']
 Results for the following nuclei: ['16O', '34Si', '40Ca', '48Ca', '52Ca', '54Ca', '48Ni', '56Ni', '78Ni', '90Zr', '100Sn', '132Sn', '208Pb']
 
 Provide the following data: ['B', 'B_err', 'Rch', 'Rch_err', 'Rp']
+
+as well as the ISGMR in 208Pb: ['E_ISGMR', 'E_ISGMR_err']
