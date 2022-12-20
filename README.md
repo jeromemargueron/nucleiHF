@@ -1,9 +1,8 @@
 # nucleiHF
-This repository provides Skyrme and Relativistic Hartree-Fock calculations for finite nuclei, which are used in the publication:
-B. V. Carlson, M. Dutra, O. Lourenço, J. Margueron, 
-Low-energy nuclear physics and global neutron star properties,
-arXiv:2209.03257 [nucl-th astro-ph.HE]
-
+This repository provides Skyrme and Relativistic Hartree-Fock calculations for finite nuclei, which are used in the publication:\
+B. V. Carlson, M. Dutra, O. Lourenço, J. Margueron, \
+Low-energy nuclear physics and global neutron star properties,\
+arXiv:2209.03257 [nucl-th astro-ph.HE]\
 https://arxiv.org/abs/2209.03257
 
 Optimized for python3.
